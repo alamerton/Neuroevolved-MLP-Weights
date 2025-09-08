@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This repository contains a genetic algorithm (GA) implementation for evolving the weights of an artificial neural network (ANN). The algorithm is designed to optimize the ANN's performance on three provided datasets. This project demonstrates how learning can be viewed as a search process and explores the effects of parameter changes on the ability of search techniques to solve optimization problems.
+This repository contains a genetic algorithm (GA) implementation for evolving the weights of an artificial neural network (ANN). The algorithm is designed to optimise the ANN's performance on three provided datasets. This project demonstrates how learning can be viewed as a search process and explores the effects of parameter changes on the ability of search techniques to solve optimisation problems.
 
 ## Features
 
-- Genetic Algorithm implementation for ANN weight optimization
-- Customizable parameters for population size, number of generations, mutation rate, etc.
+- Genetic Algorithm implementation for ANN weight optimisation
+- Customisable parameters for population size, number of generations, mutation rate, etc.
 - Support for multiple datasets
-- Performance visualization using matplotlib
-- Comparison with other optimization algorithms (Cuckoo Search, Firefly Algorithm)
+- Performance visualisation using matplotlib
+- Comparison with other optimisation algorithms (Cuckoo Search, Firefly Algorithm)
 
 ## Requirements
 
@@ -41,16 +41,16 @@ The algorithm uses the following parameter settings:
 
 ## Results
 
-The algorithm demonstrates effective performance in optimizing ANN weights. The final parameter settings produce a mean lowest fitness of 25.93% and a lowest validation fitness of 27.0% on the largest dataset.
+The algorithm demonstrates effective performance in optimising ANN weights. The final parameter settings produce a mean lowest fitness of 25.93% and a lowest validation fitness of 27.0% on the largest dataset.
 
 ## Comparison with Other Algorithms
 
-The report includes comparisons with other nature-inspired optimization algorithms:
+The report includes comparisons with other nature-inspired optimisation algorithms:
 
 - Cuckoo Search (CS)
 - Firefly Algorithm (FA)
 
-These comparisons provide insights into the strengths and weaknesses of different optimization approaches.
+These comparisons provide insights into the strengths and weaknesses of different optimisation approaches.
 
 ## Future Work
 
