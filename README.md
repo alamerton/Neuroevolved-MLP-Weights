@@ -1,4 +1,4 @@
-# Neuroevolution Algorithm for Artificial Neural Network Weight Optimization
+# Neuroevolution Algorithm for Artificial Neural Network Weight Optimisation
 
 ## Introduction
 
